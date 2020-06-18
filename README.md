@@ -1,4 +1,4 @@
-# Excercises-and-more-for-CLRS
+# Data Structures and Algorithms
 
 ### I complete exercises and implement algorithms from "CLRS"
 
