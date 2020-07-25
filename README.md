@@ -4,4 +4,4 @@
 
 ![](/img/algorithms-book-cover.jpg)
 
-### Visit my [github page](https://lemonade5117.github.io/) where I post my solutions to the non-programming exercises
+[![Run on Repl.it](https://repl.it/badge/github/lemonade5117/Algorithms)](https://repl.it/github/lemonade5117/Algorithms)
